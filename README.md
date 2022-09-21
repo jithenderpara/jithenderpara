@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jithender Para
 - 👀 I’m interest in Python, MongoDB and java
-- 🌱 I’m currently React, Javascript, AngulatJS and NodeJs
+- 🌱 I’m currently React, Javascript, Angular and NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
